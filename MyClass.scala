@@ -4,7 +4,7 @@ class MyClass (val empID:Int, val empName:String, val salary:Int) /*Primary cons
   
   /*Auxiliary constructors*/
   def this(empID:Int){
-    this (empID, "Rajiv", 10000)
+    this (empID, "Rajeev", 10000)
     
   }
   
